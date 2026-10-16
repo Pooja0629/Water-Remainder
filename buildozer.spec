@@ -19,7 +19,7 @@ source.include_exts = py,png,jpg,gif
 version = 1.0
 
 # (list) Application requirements
-requirements = python3,kivy==2.3.0,plyer,pillow
+requirements = python3==3.11.9,kivy==2.3.0,plyer,pillow
 
 # (str) Supported orientation (landscape, sensorLandscape, portrait or all)
 orientation = portrait
